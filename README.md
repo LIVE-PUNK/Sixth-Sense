@@ -6,7 +6,16 @@
 
 SixthSense is a revolutionary mobile application designed to transform how visually impaired individuals navigate and interact with the world around them. Our mission is to enhance awareness, promote independence, and improve the quality of life for the blind community.
 
-
+## 📱 App Preview
+<p align="center">
+  <img src="docs/home.png" alt="Home Screen" width="200"/>
+  <img src="docs/admin.png" alt="Live Tracking" width="200"/>
+  <img src="docs/client.png" alt="Image Recognition" width="200"/>
+  <img src="docs/alert.png" alt="Voice Guidance" width="200"/>
+  <br/>
+  <img src="docs/message.png" alt="Custom Messaging" width="200"/>
+  <img src="docs/location.png" alt="Emergency SOS" width="200"/>
+</p>
 
 
 ## 🌟 Key Features
